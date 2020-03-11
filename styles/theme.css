@@ -33,3 +33,11 @@ body {
 .text-gray-700 {
     color: #506690 !important;
 }
+
+.last-section {
+    padding-bottom: 30px;
+}
+
+.footer {
+    padding-top: 10px;
+}
