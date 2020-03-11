@@ -19,6 +19,10 @@ body {
     background-color:#fff;
 }
 
+.text-gray-mqube {
+    color: #f1f4f8!important;
+}
+
 .display-3 {
     line-height: 1.2;
 }
@@ -40,4 +44,23 @@ body {
 
 .footer {
     padding-top: 10px;
+}
+
+.mt-n8, .my-n8 {
+    margin-top: -3rem!important;
+}
+.position-relative {
+    position: relative!important;
+}
+
+#contents {
+    padding-top: 20px;
+}
+
+.text-dark {
+    color: #1b2a4e!important;
+}
+
+.advisory {
+    padding-bottom: 45px;
 }
