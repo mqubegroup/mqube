@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advisories on M Qube</title>
+    <link>https://mqube.group/advisories/</link>
+    <description>Recent content in Advisories on M Qube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2020 12:33:46 +1000</lastBuildDate>
+    
+	<atom:link href="https://mqube.group/advisories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>India to suspend visas and OCI cards till April 15, 2020</title>
+      <link>https://mqube.group/advisories/india-visa-suspended/</link>
+      <pubDate>Thu, 12 Mar 2020 12:33:46 +1000</pubDate>
+      
+      <guid>https://mqube.group/advisories/india-visa-suspended/</guid>
+      <description>Government of India is discouraging unnecessary travels. As an effort, all Indian visas and OCI cards will be suspended till April 15, 2020. This change is in effect from March 13, 2020.
+Important announcements   All existing visas, except diplomatic, official, UN/International Organizations, employment, project visas, stand suspended till 15th April 2020. This will come into effect from 1200 GMT on 13th March 2020 at the port of departure.</description>
+    </item>
+    
+    <item>
+      <title>US suspends travel from Europe</title>
+      <link>https://mqube.group/advisories/us-suspends-travel/</link>
+      <pubDate>Thu, 12 Mar 2020 12:33:46 +1000</pubDate>
+      
+      <guid>https://mqube.group/advisories/us-suspends-travel/</guid>
+      <description>President Donald Trump said Wednesday he was sharply restricting travel to the United States from more than two dozen European countries, a drastic step he framed as an attempt to contain a spreading public health crisis that has engulfed his presidency, caused global market turmoil and disrupted everyday life.
+CNN article</description>
+    </item>
+    
+    <item>
+      <title>WHO declared Corona as a pandemic</title>
+      <link>https://mqube.group/advisories/who-corona-pandemic/</link>
+      <pubDate>Thu, 12 Mar 2020 12:33:46 +1000</pubDate>
+      
+      <guid>https://mqube.group/advisories/who-corona-pandemic/</guid>
+      <description>World health organization declared COVID-19 as a pandemic. This will impact travels across the world.
+Please find the travel advisories at: WHO Travel Advisory</description>
+    </item>
+    
+    <item>
+      <title>CDC latest information</title>
+      <link>https://mqube.group/advisories/cdc-latest-info/</link>
+      <pubDate>Thu, 12 Mar 2020 12:33:46 +1000</pubDate>
+      
+      <guid>https://mqube.group/advisories/cdc-latest-info/</guid>
+      <description>United States Center for Disease Control and Prevention have the latest information to help prevent the illness, and other useful information.
+CDC Website</description>
+    </item>
+    
+  </channel>
+</rss>
